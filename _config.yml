@@ -1,1 +1,11 @@
+title: Preetish Javalgekar  # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Lead Software Development Engineer in Test
+  <br><br>
+  <a href="mailto:jpreetish@gmail.com">jpreetish@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/preetish-javalgekar/">LinkedIn Profile</a>
+  <br>
+  <a href="https://github.com/jpreetish">Github</a> 
 theme: jekyll-theme-minimal
