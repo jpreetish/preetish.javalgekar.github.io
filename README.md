@@ -7,7 +7,7 @@
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="html" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
-  <img src="/microsoft-certified-azure-fundamentals.png" alt="AZ-900" width="40" height="40">
+  <img src="microsoft-certified-azure-fundamentals.png" alt="AZ-900" width="40" height="40">
 </p>
 
 ---
