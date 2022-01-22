@@ -6,7 +6,7 @@
 
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="html" width="40" height="40">
-  <div data-iframe-width="40" data-iframe-height="270" data-share-badge-id="25ef488d-c3f1-4a97-a783-50d9c74ccdf9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <div data-iframe-width="40" data-iframe-height="40" data-share-badge-id="25ef488d-c3f1-4a97-a783-50d9c74ccdf9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
 </p>
 
