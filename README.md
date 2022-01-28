@@ -1,41 +1,28 @@
 ## Portfolio
 
-#I am a SDET  with an experience of over 6 years. I have hands on experience working with WEB UI, Mobile, API and Database testing frameworks and technologies. I have extensively worked on Selenium and RestAssured with Cucumber framework using Java for 5 years. In Addition, I have worked on Mobile Automation, Jenkins CI, Gradle and Terraform.
+I am a SDET  with an experience of over 6 years. I have hands on experience working with WEB UI, Mobile, API and Database testing frameworks and technologies. I have extensively worked on Selenium and RestAssured with Cucumber framework using Java for 5 years. In Addition, I have worked on Mobile Automation, Jenkins CI, Gradle and Terraform.
 
 ### Skills
 
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="html" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
-  <img src="/microsoft-certified-azure-fundamentals.png" alt="AZ-900" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Javalogo.png" alt="Javalogo.png" width="60" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1483px-Jenkins_logo.svg.png" alt="Jenkins logo" "width="40" height="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gradle_logo.png" alt="Gradle logo" width="60" height="40">
+  <img src="https://i0.wp.com/www.entrofi.net/wp-content/uploads/2020/01/rest-assured-logo.png?fit=400%2C400&amp;ssl=1" alt="RestAssured" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">  
+
 </p>
 
 ---
+## Experience
 
-```markdown
-Syntax highlighted code block
+### **Tech Lead QA Engineer**
+### NICE (Actimize)
 
-# Header 1
-## Header 2
-### Header 3
+Working with Fraud and AML teams to provide seemless experience in banking to all customers . I'm working on testing for features that involve segregation unzip and aggregation of data for Fraud Detection and AML upto presenting it to the banking customers for analysing this data.
 
-- Bulleted
-- List
+### **Senior Automation Test Analyst**
+### Accenture
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jpreetish/preetish.javalgekar.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Worked with Banking Client on GRC(Governance-Risk-Complaince) Applications. I was involved as the lead Automation Tester and played a pivotal role in designing and implementing an automation framework and suite that'd accomodate 18 applcations under one project and help reduce dependencies of execution.
